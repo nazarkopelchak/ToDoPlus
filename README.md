@@ -8,4 +8,4 @@ The user is not required to log in to the Google account as the app can also be 
 ## Requirements
 
 - Android studio installed on your machine.
-  - If you currently don't have Android Studio installed, you can get it [here](https://developer.android.com/studio)
+  - If you don't currently have Android Studio installed, you can download it [here](https://developer.android.com/studio).
