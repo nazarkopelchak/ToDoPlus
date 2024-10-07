@@ -26,6 +26,11 @@ The user is not required to log in to the Google account as the app can also be 
 - Back up data to Google Drive
 - Notification reminder with a custom chime
 
+## Tools used in this project
+
+- Kotlin
+- XML
+
 ## Support
 
 If there are any problems with the intallation or the app, contact me at nazar1999pro@gmail.com
