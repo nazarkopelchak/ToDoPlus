@@ -16,7 +16,7 @@ The user is not required to log in to the Google account as the app can also be 
 - Go to File or use shortcut Alt + \
 - Select New -> Project from Version Control
 - Paste this project's web URL into the URL field, select a desired directory to save the project and click Clone
-- The installation will take a few minutes (depends on your machine). After the installation is complete, you can run the ToDoPlus app.
+- The installation will take a few minutes (depends on your machine). Once the installation is complete, you can launch the ToDoPlus app.
 
 ## Current Features
 
